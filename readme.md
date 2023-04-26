@@ -1,5 +1,7 @@
 # Sliding Window
 - Find the equivalent leetcode problems here: https://gist.github.com/brendondelgado/a99c1069943521eeaf9d4dfaa3465c4b 
+
+
 **Completed:** 0 / 11
 
 - Used when looking to find/calculate a value among all sub-arrays within an array.
