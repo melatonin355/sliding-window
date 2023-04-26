@@ -26,7 +26,7 @@ Given a string, find the length of the longest substring in it with no more than
 
 Example: `str = "araaci", k=2 -> Output = 4`
 
-### Problem 4 - Fruits into Baskets ❌
+### Problem 4 - Fruits into Baskets [x]
 
 A farm has a single row of fruit trees. With two baskets, your goal is to pick as many fruits as possible to be placed in baskets.
 
