@@ -1,5 +1,5 @@
 # Sliding Window
-**Completed:** 7 / 11
+**Completed:** 0 / 11
 
 - Used when looking to find/calculate a value among all sub-arrays within an array.
 - For example:
@@ -8,25 +8,25 @@
   - Find smallerst sub-array with sum greater than x
 - General approach: Initialise the _window start_ at index 0, then loop through a range equal to the array length, representing the _window end_. The window start is incremented when a certain condition is or isn't met.
 
-### Problem 1 - Maximum Sum of Size 'K' Subarray ✅
+### Problem 1 - Maximum Sum of Size 'K' Subarray ❌
 
 Given an array of positive numbers and a positive number 'k', find the maximum sum of any contiguous subarray of size ‘k’.
 
 Example: `arr = [2, 1, 5, 1, 3, 2], k=3 -> Output = 9`
 
-### Problem 2 - Smallest Subarray with a Greater Sum ✅
-
+### Problem 2 - Smallest Subarray with a Greater Sum ❌
+ 
 Given an array of positive numbers and a positive number 'S', find the length of the smallest contiguous subarray whose sum is greater than or equal to 'S'. Return 0 if no such subarray exists.
 
 Example: `arr = [2, 1, 5, 2, 3, 2], S=7 -> Output = 2`
 
-### Problem 3 - Longest Substring with K Distinct Characters ✅
+### Problem 3 - Longest Substring with K Distinct Characters ❌
 
 Given a string, find the length of the longest substring in it with no more than K distinct characters.
 
 Example: `str = "araaci", k=2 -> Output = 4`
 
-### Problem 4 - Fruits into Baskets ✅
+### Problem 4 - Fruits into Baskets ❌
 
 A farm has a single row of fruit trees. With two baskets, your goal is to pick as many fruits as possible to be placed in baskets.
 
@@ -38,19 +38,19 @@ The farm has following restrictions:
 
 Example: `Fruit=['A', 'B', 'C', 'A', 'C'] -> Output = 3`
 
-### Problem 5 - Longest Substring with Distinct Characters ✅
+### Problem 5 - Longest Substring with Distinct Characters ❌
 
 Given a string, find the length of the longest substring, which has all distinct characters.
 
 Example: `String="aabccbb" -> Output = 3`
 
-### Problem 6 - Longest Substring with Same Letters after Replacement ✅
+### Problem 6 - Longest Substring with Same Letters after Replacement ❌
 
 Given a string with lowercase letters only, if you are allowed to replace no more than ‘k’ letters with any letter, find the length of the longest substring having the same letters after replacement.
 
 Example: `String="aabccbb", k=2 -> Output = 5`
 
-### Problem 7 - Longest Subarray with Ones after Replacement ✅
+### Problem 7 - Longest Subarray with Ones after Replacement ❌
 
 Given an array containing 0s and 1s, if you are allowed to replace no more than ‘k’ 0s with 1s, find the length of the longest contiguous subarray having all 1s.
 
