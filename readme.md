@@ -1,4 +1,4 @@
-
+# Sliding Window
 **Completed:** 7 / 11
 
 - Used when looking to find/calculate a value among all sub-arrays within an array.
