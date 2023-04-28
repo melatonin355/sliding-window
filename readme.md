@@ -11,7 +11,7 @@
   - Find smallerst sub-array with sum greater than x
 - General approach: Initialise the _window start_ at index 0, then loop through a range equal to the array length, representing the _window end_. The window start is incremented when a certain condition is or isn't met.
 
-### Problem 1 - Maximum Sum of Size 'K' Subarray ❌
+### Problem 1 - Maximum Sum of Size 'K' Subarray ✅
 
 Given an array of positive numbers and a positive number 'k', find the maximum sum of any contiguous subarray of size ‘k’.
 
@@ -29,7 +29,7 @@ Given a string, find the length of the longest substring in it with no more than
 
 Example: `str = "araaci", k=2 -> Output = 4`
 
-### Problem 4 - Fruits into Baskets [x]
+### Problem 4 - Fruits into Baskets ✅
 
 A farm has a single row of fruit trees. With two baskets, your goal is to pick as many fruits as possible to be placed in baskets.
 
