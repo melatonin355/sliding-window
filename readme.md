@@ -17,7 +17,7 @@ Given an array of positive numbers and a positive number 'k', find the maximum s
 
 Example: `arr = [2, 1, 5, 1, 3, 2], k=3 -> Output = 9`
 
-### Problem 2 - Smallest Subarray with a Greater Sum ❌
+### Problem 2 - Smallest Subarray with a Greater Sum ✅
  
 Given an array of positive numbers and a positive number 'S', find the length of the smallest contiguous subarray whose sum is greater than or equal to 'S'. Return 0 if no such subarray exists.
 
