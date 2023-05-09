@@ -23,7 +23,7 @@ Given an array of positive numbers and a positive number 'S', find the length of
 
 Example: `arr = [2, 1, 5, 2, 3, 2], S=7 -> Output = 2`
 
-### Problem 3 - Longest Substring with K Distinct Characters ❌
+### Problem 3 - Longest Substring with K Distinct Characters ✅
 
 Given a string, find the length of the longest substring in it with no more than K distinct characters.
 
