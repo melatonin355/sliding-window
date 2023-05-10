@@ -41,7 +41,7 @@ The farm has following restrictions:
 
 Example: `Fruit=['A', 'B', 'C', 'A', 'C'] -> Output = 3`
 
-### Problem 5 - Longest Substring with Distinct Characters ❌
+### Problem 5 - Longest Substring with Distinct Characters ✅
 
 Given a string, find the length of the longest substring, which has all distinct characters.
 
